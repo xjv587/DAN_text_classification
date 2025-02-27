@@ -10,6 +10,9 @@ This project focuses on training feedforward neural networks in PyTorch for sent
 
 # Key Achievements:
 ✅ Achieved 79% accuracy on sentiment classification.
+
 ✅ Implemented word embedding techniques to enhance generalization.
+
 ✅ Built typo-resistant models, improving accuracy on noisy text to 75%.
+
 ✅ Optimized training to complete in under 10 minutes.
